@@ -65,7 +65,7 @@
                                                             <color key="baseForegroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </buttonConfiguration>
                                                         <connections>
-                                                            <action selector="bButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="v8N-lN-BC6"/>
+                                                            <action selector="aButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q5x-kE-yBo"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -93,7 +93,7 @@
                                                             <color key="baseForegroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </buttonConfiguration>
                                                         <connections>
-                                                            <action selector="cButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="M42-lj-hk0"/>
+                                                            <action selector="aButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9PJ-Eu-62S"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -121,7 +121,7 @@
                                                             <color key="baseForegroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </buttonConfiguration>
                                                         <connections>
-                                                            <action selector="d_Button:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XOQ-Wm-Qsd"/>
+                                                            <action selector="aButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2Mx-MT-jMS"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -149,7 +149,7 @@
                                                             <color key="baseForegroundColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </buttonConfiguration>
                                                         <connections>
-                                                            <action selector="eButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qpi-Nu-QL3"/>
+                                                            <action selector="aButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CIZ-WP-KZo"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
