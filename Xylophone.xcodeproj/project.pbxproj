@@ -99,13 +99,13 @@
 		320B3E8B2AF583B700F0FF97 /* Xylophone */ = {
 			isa = PBXGroup;
 			children = (
+				320B3E9A2AF583B800F0FF97 /* Info.plist */,
 				320B3E8C2AF583B700F0FF97 /* AppDelegate.swift */,
 				320B3E8E2AF583B700F0FF97 /* SceneDelegate.swift */,
 				320B3E902AF583B700F0FF97 /* ViewController.swift */,
-				320B3E922AF583B700F0FF97 /* Main.storyboard */,
 				320B3E952AF583B800F0FF97 /* Assets.xcassets */,
 				320B3E972AF583B800F0FF97 /* LaunchScreen.storyboard */,
-				320B3E9A2AF583B800F0FF97 /* Info.plist */,
+				320B3E922AF583B700F0FF97 /* Main.storyboard */,
 			);
 			path = Xylophone;
 			sourceTree = "<group>";
@@ -444,6 +444,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Xylophone/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -471,6 +472,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Xylophone/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
